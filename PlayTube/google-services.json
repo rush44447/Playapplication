@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810578468563",
+    "project_id": "dorcflex-e33cb",
+    "storage_bucket": "dorcflex-e33cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810578468563:android:f1fa8124ad4dadd0597e26",
+        "android_client_info": {
+          "package_name": "com.abedorc.dorcflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810578468563-vv8cri07atavars5e3b5fsc2il2jbiot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3tH7Z5jsB50kG4k88Enld4iBJKi8ZYYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810578468563-vv8cri07atavars5e3b5fsc2il2jbiot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1622301714166045~4640928879"
+    }
+  ],
+  "configuration_version": "1"
+}
